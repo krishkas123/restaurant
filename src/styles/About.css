@@ -1,0 +1,21 @@
+.container {
+    padding: 16px;
+    text-align: center;
+  }
+  
+  .image {
+    max-width: 100%;
+    height: auto;
+    margin: 16px 0;
+  }
+  
+  .paragraph {
+    margin: 16px 0;
+  }
+  
+  .paper {
+    padding: 16px;
+    margin: 16px 0;
+    text-align: center;
+  }
+  
